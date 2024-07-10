@@ -16,8 +16,9 @@ footer{
 }
 
 main {
-    width: fit-content;
-    color: blue;
+    display: block;
+    height: 100%;
+    position: relative;
     overflow: hidden;
     padding-left: 20px;
 }
