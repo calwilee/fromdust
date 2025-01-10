@@ -21,12 +21,13 @@ main {
     position: relative;
     overflow: hidden;
     padding-left: 20px;
+    font-family: Georgia;
 }
 a {
     color:black;
 }
 ul {
-    font-size: 15px;
+    font-size: 5px;
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -34,11 +35,13 @@ ul {
 
 li{
     font-size: 15px;
+    font-family: Georgia;
 }
 
 h1 { 
     margin-top: 0px;
-    font-size: 15px;
+    font-size: 20px;
+    
     margin-bottom: 4px;
 
 }
@@ -48,9 +51,14 @@ h2 {
     font-size: 15px;
     margin-top: 20px;
     margin-bottom: 0;
+    font-family: Georgia;
     font-weight: normal;
 }
 
 p {
     font-size: 15;
+}
+
+code {
+    font-size: 13px;
 }
